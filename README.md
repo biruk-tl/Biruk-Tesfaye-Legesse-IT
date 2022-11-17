@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biruk Tesfaye Legesse</h1>
+<h1 align="center">Hi 👋, I'm Biruk Tesfaye</h1>
 <h3 align="center">A passionate web/mobile app developer and network technician from Ethiopia.</h3>
 
 - 🔭 I’m currently working on **becoming a Cisco Certified Network Associate**
